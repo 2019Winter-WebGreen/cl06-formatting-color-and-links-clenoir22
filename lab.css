@@ -1,0 +1,21 @@
+/*
+* courtney lenoir
+* due date
+* lab
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+footer { background-color: cornflowerblue;}
+header { background-color:aqua;}
+main { background-color:aquamarine; }
+body {background-color: antiquewhite;
+font-family: "Courier New", Courier, monospace;}
+h1 { text-decoration: overline underline; font-size: 300%; text-align: center;}
+#lab { float: right;}
+p {background-color: white}
+a:hover, a:focus {color: chartreuse}
